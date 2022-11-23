@@ -1,0 +1,5 @@
+tup=(1,2,3,"Python",3.0,5,6,"program")
+print("Python" in tup)
+print(1 in tup)
+print(3.0 in tup)
+print(8 in tup)

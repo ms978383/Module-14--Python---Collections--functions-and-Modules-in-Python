@@ -1,0 +1,9 @@
+**Basic type of Function In Phython :-
+
+1) Library Function
+    e.g.. print()
+
+2) User Define Function
+    e.g.. add()    etc....
+                        
+ 
